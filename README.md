@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 **Github State**
 
-![anx0ing's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustineFulgur&show_icons=true&theme=radical)
+![AugustineFulgur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustineFulgur&show_icons=true&theme=radical)
 
 **Top Langs**
 
