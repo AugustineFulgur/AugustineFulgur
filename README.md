@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 **Top Langs**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustineFulgur&layout=compact&theme=radical&size_weight=0.2&count_weight=1&hide=ShaderLab,HTML)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustineFulgur&layout=compact&theme=radical&size_weight=0.2&count_weight=1&hide=ShaderLab,HTML,Objective-C)
