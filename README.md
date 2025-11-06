@@ -1,5 +1,7 @@
 ### Hi there,I'm 张伟 👋
 
+![不要紧，反正都迟了^ ^](1.jpg)
+
 <!--
 **AugustineFulgur/AugustineFulgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
