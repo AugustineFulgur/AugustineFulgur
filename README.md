@@ -17,7 +17,8 @@
 | 2024 | java | 安全工具 | Agenst-内存马维权工具 | https://github.com/AugustineFulgur/Agenst |
 | 2025 | python | 安全工具 | mSS-GUI-前端加解密等代理式渗透测试工具包 | https://github.com/AugustineFulgur/mSS-GUI |
 | 2025 | js | 安全工具 | ClarityJS-解混淆框架 | https://github.com/AugustineFulgur/ClarityJS |
-| 2026 | / | AI安全Skill（Vibe-coding） | 大模型应用安全编码Skill | https://github.com/CatXicure/SafetyLLMCodingSkill |
+| 2026 | / | 安全工具（Vibe-coding） | 大模型应用安全编码Skill | https://github.com/CatXicure/SafetyLLMCodingSkill |
+| 2026 | / | 安全工具（Vibe-coding） | GhostBits利用插件 | https://github.com/CatXicure/GhostBitsGenerator |
 
 # 统计
 
