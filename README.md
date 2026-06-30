@@ -24,25 +24,23 @@
 | 语言 | 总行数 | 注释行 | 代码行数 |
 |---|---:|---:|---:|
 | Java | 13,394 | 391 | 11,363 |
-| JavaScript | 11,608 | 1,971 | 7,483 |
 | Python | 8,958 | 733 | 7,236 |
 | C# | 2,514 | 348 | 1,956 |
+| JavaScript | 605 | 72 | 471 |
 
 | 项目 | 语言 | 代码行数 |
 |---|---|---:|
 | Agenst | Java | 339 |
-| AST-zero-based-Website | JavaScript | 6,926 |
-| AST-zero-based-Website | Python | 537 |
 | Aurora_Backend | Python | 3,236 |
 | Aurora_Frontend | Java | 10,098 |
 | ClarityJS | JavaScript | 471 |
 | DebuggerKiller | Java | 93 |
 | Dopia | Python | 201 |
 | EditThisHeader | Java | 524 |
-| mSS-GUI | JavaScript | 86 |
 | mSS-GUI | Python | 2,704 |
 | PackFilling | Python | 348 |
 | processorRemote | Java | 309 |
 | RegistryDesktop-by-CSharp | C# | 1,429 |
 | SnapshotMonkey | Python | 210 |
 | Unity2048 | C# | 527 |
+| AST-zero-based-Website | Python | 537 |
