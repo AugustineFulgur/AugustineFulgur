@@ -4,15 +4,15 @@
 |---|---|---|---|---|
 | 2020 | python | web应用 | 低代码博客框架 | https://github.com/AugustineFulgur/AST-zero-based-Website |
 | 2020 | C# | 客户端应用（Windows） | 注册表清理工具 | https://github.com/AugustineFulgur/RegistryDesktop-by-CSharp |
-| 2020 | ruby | 博客 | RMXP_Unofficial_Interpreter_Document | https://github.com/AugustineFulgur/RMXP_Unofficial_Interpreter_Document |
+| 2020 | ruby | 博客 | 游戏引擎（RGSS1）解读文档 | https://github.com/AugustineFulgur/RMXP_Unofficial_Interpreter_Document |
 | 2021 | python | 安全工具 | 模仿hydra的爆破器 | https://github.com/AugustineFulgur/Dopia |
 | 2021 | C#+Unity | 游戏 | 2048 | https://github.com/AugustineFulgur/Unity2048 |
 | 2022 | python | 安全工具 | PackFilling-自动化爆破工具 | https://github.com/AugustineFulgur/PackFilling |
-| 2022 | java | 安卓应用 | Aurora_Frontend | https://github.com/AugustineFulgur/Aurora_Frontend |
-| 2022 | python | web应用 | Aurora_Backend | https://github.com/AugustineFulgur/Aurora_Backend |
-| 2023 | java | 安全工具 | DebuggerKiller | https://github.com/AugustineFulgur/DebuggerKiller |
-| 2023 | java | 安全工具 | EditThisHeader | https://github.com/AugustineFulgur/EditThisHeader |
-| 2023 | python | 安全工具 | SnapshotMonkey | https://github.com/AugustineFulgur/SnapshotMonkey |
+| 2022 | java | 安卓应用 | 论坛APP | https://github.com/AugustineFulgur/Aurora_Frontend |
+| 2022 | python | web应用 | 论坛APP的后端 | https://github.com/AugustineFulgur/Aurora_Backend |
+| 2023 | java | 安全工具 | BP插件 | https://github.com/AugustineFulgur/DebuggerKiller |
+| 2023 | java | 安全工具 | BP插件 | https://github.com/AugustineFulgur/EditThisHeader |
+| 2023 | python | 安全工具 | 自动内网漏洞验证+报告编写工具 | https://github.com/AugustineFulgur/SnapshotMonkey |
 | 2024 | java | 安全工具 | processorRemote-RPC自动加解密 | https://github.com/AugustineFulgur/processorRemote |
 | 2024 | java | 安全工具 | Agenst-内存马维权工具 | https://github.com/AugustineFulgur/Agenst |
 | 2025 | python | 安全工具 | mSS-GUI-前端加解密等代理式渗透测试工具包 | https://github.com/AugustineFulgur/mSS-GUI |
